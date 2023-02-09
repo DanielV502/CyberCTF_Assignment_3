@@ -1,4 +1,4 @@
-# CyberCTF_Assignment_2
+# CyberCTF_Assignment_3
 
 ### 1. Challenge: file-run1 (Easy)
 
@@ -21,4 +21,4 @@
 
 ![R3_C1_1](https://user-images.githubusercontent.com/124681007/217722244-53f80011-306e-4e25-9e71-53be0f40e48b.png)
 
-> The flag is: “picoCTF{U51N6_Y0Ur_F1r57_F113_9bc52b6b}”
+> The flag is: **“picoCTF{U51N6_Y0Ur_F1r57_F113_9bc52b6b}”**

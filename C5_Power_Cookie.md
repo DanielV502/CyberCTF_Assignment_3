@@ -11,4 +11,4 @@
 
 * On the inspection of the website files, there was a cookie with a parameter to login as a Guest, modifying this cookie allow us to login as admin:
 
-> The flag is: “picoCTF{gr4d3_A_c00k13_5d2505be}”
+> The flag is: **“picoCTF{gr4d3_A_c00k13_5d2505be}”**

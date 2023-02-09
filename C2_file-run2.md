@@ -21,4 +21,4 @@
 
 ![R3_C2_1](https://user-images.githubusercontent.com/124681007/217722927-5ee457d6-8cd2-4e04-9044-99cc8d04154b.png)
 
-> The flag is: “picoCTF{F1r57_4rgum3n7_be0714da}”
+> The flag is: **“picoCTF{F1r57_4rgum3n7_be0714da}”**

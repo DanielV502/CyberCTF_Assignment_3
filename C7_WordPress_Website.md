@@ -4,8 +4,8 @@
 
 * The challenge requests to find the user names and passwords of the provided Website.
 * With the tool “WPSscan” we scan the Website and get the associated users:
-	* “admin”
-	* “think”
+	* **“admin”**
+	* **“think”**
 
 ![R3_C7_1](https://user-images.githubusercontent.com/124681007/217726362-db19feda-8185-4aa2-9722-955912b9c9d7.png)
 

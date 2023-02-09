@@ -1,4 +1,4 @@
-# CyberCTF_Assignment_2
+# CyberCTF_Assignment_3
 
 This is a test...
 
@@ -15,6 +15,10 @@ This is a test...
 * test
 
 ## [Challenge 4 - C4_Local_Authority](C4_Local_Authority.md)
+
+* test
+
+## [Challenge 5 - C5_Power_Cookie](C5_Power_Cookie.md)
 
 * test
 

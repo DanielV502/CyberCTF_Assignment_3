@@ -22,7 +22,11 @@ This is a test...
 
 * test
 
-## [Challenge 6 - C6_Forbidden_Paths.md](C6_Forbidden_Paths.md)
+## [Challenge 6 - C6_Forbidden_Paths](C6_Forbidden_Paths.md)
+
+* test
+
+## [Challenge 7 - C7_WordPress_Website](C7_WordPress_Website.md)
 
 * test
 

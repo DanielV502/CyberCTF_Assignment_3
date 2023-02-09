@@ -11,4 +11,4 @@
 
 ![R3_C6_2](https://user-images.githubusercontent.com/124681007/217725104-3f290d2a-4e1b-45bc-acec-d94c2f2a65ff.png)
 
-> The flag is: “picoCTF{7h3_p47h_70_5ucc355_6db46514}”
+> The flag is: **“picoCTF{7h3_p47h_70_5ucc355_6db46514}”**

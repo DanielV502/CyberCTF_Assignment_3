@@ -14,4 +14,4 @@
 
 * There was some information on the validation of credentials where the user and password was stored allowing us to login the website:
 
-> The flag is: “picoCTF{j5_15_7r4n5p4r3n7_05df90c8}”
+> The flag is: **“picoCTF{j5_15_7r4n5p4r3n7_05df90c8}”**

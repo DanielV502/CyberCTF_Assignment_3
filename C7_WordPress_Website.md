@@ -20,16 +20,3 @@
 * To void the security of the Website, we make a cycle with a successful login and another attempt with the password list until it gets a match.
 
 > The password of the **“admin”** user is: **“#1mama”**
-
-
-
-
-
-
-
-
-
-
-
-
-

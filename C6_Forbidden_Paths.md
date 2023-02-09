@@ -6,8 +6,8 @@
 
 ![R3_C6_1](https://user-images.githubusercontent.com/124681007/217725094-5c31aff2-0892-4dcd-bdc0-944a7384d060.png)
 
-* The file path provided is: “usr/share/nginx/html/flag.txt”
-* The absoulte file path is filtered, with a relative file path we can get the flag:“../../../../flag.txt”
+* The file path provided is: **“usr/share/nginx/html/flag.txt”**
+* The absoulte file path is filtered, with a relative file path we can get the flag: **“../../../../flag.txt”**
 
 ![R3_C6_2](https://user-images.githubusercontent.com/124681007/217725104-3f290d2a-4e1b-45bc-acec-d94c2f2a65ff.png)
 

@@ -2,7 +2,7 @@
 
 ### 2. Challenge: file-run2 (Easy)
 
-* The challenge request to download and run a program with an argument.
+* The challenge requests to download and run a program with an argument.
   
 		#!/bin/bash
 		#Select the commands needed to Get the Flag!

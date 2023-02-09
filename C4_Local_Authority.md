@@ -1,4 +1,4 @@
-# CyberCTF_Assignment_2
+# CyberCTF_Assignment_3
 
 ### 4. Challenge: Local Authority (Medium)
 
